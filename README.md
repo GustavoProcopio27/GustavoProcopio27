@@ -1,11 +1,11 @@
-<div style="display:display;justify-content:center;align-items:center;">
+<div display="flex" justify-content="center" align-items="center">
   <h2>Ola, sou Gustavo Luiz, atualmente estudante do Centro de Educação Celso Suckow da Fonseca(CEFET-RJ) no 3 ano no curso de informática</h2>
-  <h4 style="color:gray">Hi , my name is Gustavo Luiz, i´m at Centro de Educação Celso Suckow da Fonseca(CEFET-RJ), currently in the 3rd year of the IT course</h4>
-  <h2>📫 Contato: gustavoprocopio727@gmail.com</h2>
+  <h4 >Hi , my name is Gustavo Luiz, i´m at Centro de Educação Celso Suckow da Fonseca(CEFET-RJ), currently in the 3rd year of the IT course</h4>
+  <h2 align="center">📫 Contato: gustavoprocopio727@gmail.com</h2>
 </div>
 
-<div style="display:display;justify-content:center;align-items:center;">
-<table>
+<div display="flex" justify-content="center" align-items="center">
+<table align="center">
   <tr><th colspan="2">Linguagens:</th></tr>
   <tr>
     <td>Frontend:</td>
