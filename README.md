@@ -5,7 +5,7 @@
 </div>
 
 <div style="display:display;justify-content:center;align-items:center;">
-<table style="margin-left:40%">
+<table>
   <tr><th colspan="2">Linguagens:</th></tr>
   <tr>
     <td>Frontend:</td>
