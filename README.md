@@ -45,4 +45,9 @@
 </table>
 </div>
 
-
+<!-- 
+<div display="flex" flex-direction="column;" justify-content="center" align-items="center" width='100%'>
+  <div align='center'><img src='https://github-readme-stats.vercel.app/api?username=GustavoProcopio27&show_icons=true&theme=radical&count_private=true'></div>
+  <br>
+  <div align='center'><img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoProcopio27&layout=compact&theme=radical'></div>
+</div>-->
