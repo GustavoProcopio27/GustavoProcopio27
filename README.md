@@ -40,6 +40,7 @@
     <td>
       <img align="center" alt= "plotly" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg">
       <img align="center" alt= "pandas" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
+      <img align="center" alt= "pandas" height="60" width="40" src='https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg'>
     </td>
   </tr>
 </table>
