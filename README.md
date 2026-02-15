@@ -1,5 +1,9 @@
-### Olá, sou Gustavo Luiz,técnico em informática formado no CEFET-RJ.<br> Atualmente graduando na Universidade Federal Rural do Rio de Janeiro em Ciência da Computação
+🇧🇷 [Português](./README.md) | 🇺🇸 [English](./README_EN.md)
 
+
+### Olá, sou Gustavo Luiz,técnico em informática formado no CEFET-RJ.<br> Atualmente graduando na Universidade Federal Rural do Rio de Janeiro em Ciência da Computação
+### Atual estou focado em desenvolvimento backend, criação de APIs e desenvolvimento de soluções orientadas a dados
+### Buscando oportunidades de estágio para aplicar e desenvolver habilidades práticas
 ---
 
 ## Sobre:
@@ -65,4 +69,4 @@
 - Análise de dados e desenvolvimento de dashboards utilizando Python, Pandas, Plotly e Streamlit (organização privada)
 - Modelagem de sistemas e de banco de dados
   
-- #### Para visualizar tais projetos consulte no site de Portfolio os projetos [MOBI](https://gustavoprocopio27.github.io/Portfolio/projects/mobi)  e [Mobi-Dashboard](https://gustavoprocopio27.github.io/Portfolio/projects/mobi-dashboard)
+- #### Para visualizar tais projetos consulte no site de Portfolio os projetos [MOBI](https://gustavoprocopio27.github.io/Portfolio/projects/mobi) e [Mobi-Dashboard](https://gustavoprocopio27.github.io/Portfolio/projects/mobi-dashboard)
