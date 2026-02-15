@@ -1,54 +1,68 @@
-<div display="flex" justify-content="center" align-items="center">
-  <h2>Ola, sou Gustavo Luiz, atualmente estudante do Centro de Educação Celso Suckow da Fonseca(CEFET-RJ) no 3 ano no curso de informática</h2>
-  <h4 >Hi , my name is Gustavo Luiz, i´m at Centro de Educação Celso Suckow da Fonseca(CEFET-RJ), currently in the 3rd year of the IT course</h4>
-  <h2 align="center">📫 Contato: gustavoprocopio727@gmail.com</h2>
+### Olá, sou Gustavo Luiz,técnico em informática formado no CEFET-RJ.<br> Atualmente graduando na Universidade Federal Rural do Rio de Janeiro em Ciência da Computação
+
+---
+
+## Sobre:
+* #### 👨🏻‍💻 Desenvolvedor FullStack e Analista de dados.
+* #### ✍️ No meu tempo livre gosto de desenhar e tentar criar arte
+* #### 🎯 Procurando oportunidades de estágio
+* #### 📄 Desejando visualizar o currículo [clique aqui](https://gustavoprocopio27.github.io/Portfolio//upload/Curriculo-Gustavo-Luiz-da-Silva-Procopio.pdf)</h2>
+
+
+
+## 🚀 Tech Stack
+### **Foco principal:** Java | Spring | Python | React
+
+<br>
+
+**Frontend:**
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+
+**Backend:**
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)](https://spring.io/)
+[![CSharp](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
+
+
+
+**Banco de Dados:**
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+
+
+**Análise e Visualização de Dados:**
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)](https://matplotlib.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)](https://plotly.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
+
+## 💬 Contato: 
+
+### 📫 Email: [gustavoprocopio727@gmail.com](mailto:gustavoprocopio727@gmail.com)
+### 📞 Telefone: +55 (21) 98090-4401
+### 💼 Linkedin: [gustavo-procópio](https://linkedin.com/in/gustavo-procópio/)
+### 🌐 Portfólio:[gustavoprocopio27.github.io/Portfolio/](https://gustavoprocopio27.github.io/Portfolio/)
+
+## ⚙️ Estatísticas do GitHub e contribuições
+
+<div align="center" width='100%'>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GustavoProcopio27&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GustavoProcopio27&layout=compact&include_all_commits=true&langs_count=8&theme=algolia&count_private=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=GustavoProcopio27&theme=dark"/>
 </div>
 
-<div display="flex" justify-content="center" align-items="center">
-<table align="center">
-  <tr><th colspan="2">Linguagens:</th></tr>
-  <tr>
-    <td>Frontend:</td>
-    <td>
-      <img alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-      <img alt="css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-      <img alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-      <img alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-    </td>
-  </tr>
-  <tr>
-    <td>Backend:</td>
-    <td>
-      <img alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-      <img alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40"/>
-      <img alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40"/>
-      <img alt="C#"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-    </td>
-  </tr>
+### 🤝 Contribuições
 
-  <tr>
-    <td>Databases:</td>
-    <td>
-      <img align="center" alt= "Mysql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">   
-      <img align="center" alt= "sqlite3" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
-      <img align="center" alt= "sqlalchemy" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg">
-    </td>
-  </tr>
-
-  <tr>
-    <td>Outras tecnologias ou bibliotecas:</td>
-    <td>
-      <img align="center" alt= "plotly" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg">
-      <img align="center" alt= "pandas" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
-      <img align="center" alt= "pandas" height="60" width="40" src='https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg'>
-    </td>
-  </tr>
-</table>
-</div>
-
-<!-- 
-<div display="flex" flex-direction="column;" justify-content="center" align-items="center" width='100%'>
-  <div align='center'><img src='https://github-readme-stats.vercel.app/api?username=GustavoProcopio27&show_icons=true&theme=radical&count_private=true'></div>
-  <br>
-  <div align='center'><img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoProcopio27&layout=compact&theme=radical'></div>
-</div>-->
+- Desenvolvimento de APIs Rest com Spring e Flask (organização privada)
+- Análise de dados e desenvolvimento de dashboards utilizando Python, Pandas, Plotly e Streamlit (organização privada)
+- Modelagem de sistemas e de banco de dados
+  
+- #### Para visualizar tais projetos consulte no site de Portfolio os projetos [MOBI](https://gustavoprocopio27.github.io/Portfolio/projects/mobi)  e [Mobi-Dashboard](https://gustavoprocopio27.github.io/Portfolio/projects/mobi-dashboard)
