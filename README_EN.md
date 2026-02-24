@@ -70,4 +70,4 @@
 - Data analysis and dashboard development using Python, Pandas, Plotly e Streamlit (private organization)
 - Database and system modeling (private organization)
   
-- #### To view these projects in which i contributed consult [MOBI](https://gustavoprocopio27.github.io/Portfolio/projects/mobi) and [Mobi-Dashboard](https://gustavoprocopio27.github.io/Portfolio/projects/mobi-dashboard) in my portfolio
+- #### To view these projects in which i contributed consult **MOBI** and **Mobi-Dashboard** in my portfolio
