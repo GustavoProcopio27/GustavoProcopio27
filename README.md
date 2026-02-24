@@ -57,10 +57,9 @@
 
 ## ⚙️ Estatísticas do GitHub e contribuições
 
-<div align="center" width='100%'>
+<div width='100%'>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GustavoProcopio27&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GustavoProcopio27&layout=compact&include_all_commits=true&langs_count=8&theme=algolia&count_private=true"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=GustavoProcopio27&theme=dark"/>
 </div>
 
 ### 🤝 Contribuições
